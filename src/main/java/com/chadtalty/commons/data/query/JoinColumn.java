@@ -2,8 +2,6 @@ package com.chadtalty.commons.data.query;
 
 
 
-import com.chadtalty.commons.data.query.filter.Filter;
-
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;

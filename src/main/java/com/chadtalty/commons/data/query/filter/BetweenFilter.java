@@ -2,6 +2,7 @@ package com.chadtalty.commons.data.query.filter;
 
 import java.time.Instant;
 
+import com.chadtalty.commons.data.query.Filter;
 import com.chadtalty.commons.data.query.operator.BetweenOperatorType;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;

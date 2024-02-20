@@ -1,6 +1,7 @@
 package com.chadtalty.commons.data.query.filter;
 import java.util.List;
 
+import com.chadtalty.commons.data.query.Filter;
 import com.chadtalty.commons.data.query.operator.ContainsOperatorType;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

@@ -1,5 +1,10 @@
-package com.chadtalty.commons.data.query.filter;
+package com.chadtalty.commons.data.query;
 
+import com.chadtalty.commons.data.query.filter.BasicFilter;
+import com.chadtalty.commons.data.query.filter.BetweenFilter;
+import com.chadtalty.commons.data.query.filter.ContainsFilter;
+import com.chadtalty.commons.data.query.filter.DateTimeFilter;
+import com.chadtalty.commons.data.query.filter.FilterType;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import com.fasterxml.jackson.annotation.JsonTypeInfo.As;
